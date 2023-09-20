@@ -130,15 +130,3 @@ For any issues related to the project, raise an ISSUE for the respective Reposit
 </p>
 
 <br/>
-
-## 🐦 Follow Me:
-
-> [github](https://github.com/UmmanaboyanaKalyankumar/placementcell.git)
-
-> [Twitter](Kalyan kumar)
-
-> [LinkedIn](http://linkedin.com/in/ummanaboyana-kalyan-kumar-0a0614258)
-
-> [YouTube](https://youtu.be/oZYdOSyKTxk)
-
-I hope you like the project. Thanks for reading :)
